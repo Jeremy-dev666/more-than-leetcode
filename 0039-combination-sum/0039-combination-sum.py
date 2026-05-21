@@ -4,6 +4,10 @@ class Solution:
         n = len(candidates)
 
         def backtrack(index: int, sum: int, path: List[int]) -> None:
+            """
+            index 决定要走哪个分岔路口
+            i     决定下一步从哪开始
+            """
             if sum == target:
                 ans.append(list(path))
                 return
