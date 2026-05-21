@@ -26,10 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
