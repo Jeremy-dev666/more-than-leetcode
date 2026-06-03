@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 ## Backtracking
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 ## Binary Search
 |  |
 | ------- |
