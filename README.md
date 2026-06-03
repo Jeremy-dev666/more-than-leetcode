@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
