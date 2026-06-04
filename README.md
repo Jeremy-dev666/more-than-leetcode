@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
