@@ -2,6 +2,7 @@
 ```java
 public class Solution { 
     public static int numberOfComponents(int n, int[][] edges) { 
+        // 建立邻接表
         List<List<Integer>> graph = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             graph.add(new ArrayList<>());
@@ -10,8 +11,10 @@ public class Solution {
             graph.get(edge[0]).add(edge[1]);
             graph.get(edge[1]).add(edge[0]);
         }
+        // 记录访问状态
         boolean[] visited = new boolean[n];
         int count = 0;
+        // 节点入口
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
                 bfs(graph, i, visited);
@@ -47,8 +50,10 @@ public class Solution {
         }
         int count = n;
         for (int[] edge : edges) {
+            // 找爸爸
             int a = find(parent, edge[0]);
             int b = find(parent, edge[1]);
+            // 建立连通关系
             if (a != b) {
                 parent[a] = b;
                 count--;
@@ -58,9 +63,11 @@ public class Solution {
     }
 
     private static int find(int[] parent, int i) { 
+        // 自己不是爸爸，找爸爸
         if (parent[x] != x) {
             parent[x] = find(parent, parent[x]);
         }
+        // 返回爸爸是谁
         return parent[x];
     }
 }
