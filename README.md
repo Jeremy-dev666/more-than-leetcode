@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0042-trapping-rain-water) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0042-trapping-rain-water) |
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
 ## Sliding Window
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
