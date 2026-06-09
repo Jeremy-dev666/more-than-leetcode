@@ -1,22 +1,19 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
         st = []
-        for a in asteroids:
-            if a > 0:
-                st.append(a)
+        for x in asteroids:
+            # 向右直接压栈
+            if x > 0:
+                st.append(x)
                 continue
-            alive = True           # 标记当前向左星球是否存活
+            # 向左的需要和栈顶向右的比较看会不会爆炸
             while st and st[-1] > 0:
                 top = st[-1]
-                if top > -a:
-                    alive = False  # 当前星球被销毁
-                    break
-                elif top == -a:
+                if top <= -x:  # 栈顶小行星爆炸
                     st.pop()
-                    alive = False  # 同归于尽，也不入栈
+                if top >= -x:  # x 爆炸
                     break
-                else:
-                    st.pop()
-            if alive:
-                st.append(a)
+            # while 没有 break，说明 x 没有爆炸，入栈
+            else:  
+                st.append(x)
         return st
