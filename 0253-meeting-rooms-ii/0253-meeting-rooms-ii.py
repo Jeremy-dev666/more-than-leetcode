@@ -1,22 +1,15 @@
-import heapq
-
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
-        if not intervals:
-            return 0
-
-        # 按开始时间排序
-        intervals.sort(key=lambda x: x[0])
-
-        # 最小堆，存每个房间当前会议的结束时间
-        heap = []
-
+        events = []
         for start, end in intervals:
-            if heap and heap[0] <= start:
-                # 最早结束的房间已空闲，复用它
-                heapq.heapreplace(heap, end)
-            else:
-                # 没有空闲房间，新开一间
-                heapq.heappush(heap, end)
+            events.append((start, 1))
+            events.append((end, -1))
 
-        return len(heap)
+        events.sort(key=lambda x: (x[0], x[1]))
+        rooms = 0
+        ans = 0
+        for time, d in events:
+            rooms += d
+            ans = max(ans, rooms)
+        
+        return ans
