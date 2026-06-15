@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
+| [0904-fruit-into-baskets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0904-fruit-into-baskets) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
 | [0875-koko-eating-bananas](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0904-fruit-into-baskets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Prefix Sum
