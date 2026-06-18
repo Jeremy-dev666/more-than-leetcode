@@ -1,34 +1,27 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        # 二分找上界和下界问题
         n = len(nums)
         if n == 0:
             return [-1, -1]
 
-        left, right = 0, n
+        l, r = 0, n
+        ans = [-1, -1]
 
-        # 找上界
-        while left < right:
-            mid = left + (right - left) // 2
-            if target < nums[mid]:
-                right = mid
+        while l < r:
+            mid = l + (r - l) // 2
+            if nums[mid] < target:
+                l = mid + 1
             else:
-                left = mid + 1
-        right_index = left - 1
+                r = mid
+        ans[0] = -1 if l == n or nums[l] != target else l
 
-        # 找上界
-        left, right = 0, left
-        while left < right:
-            mid = left + (right - left) // 2
-            if target > nums[mid]:
-                left = mid + 1
+        l, r = 0, n
+        while l < r:
+            mid = l + (r - l) // 2
+            if nums[mid] <= target:
+                l = mid + 1
             else:
-                right = mid
-        left_index = left
-        
-        if right_index < 0 or left_index >= n:
-            return [-1, -1]
-        if nums[left_index] != target or nums[right_index] != target:
-            return [-1, -1]
+                r = mid
+        ans[1] = -1 if l == 0 or nums[l - 1] != target else l - 1
 
-        return [left_index, right_index]
+        return ans
