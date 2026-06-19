@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
+| [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
