@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
+| [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -213,11 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
+| [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
+| [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 ## Greedy
 |  |
 | ------- |
