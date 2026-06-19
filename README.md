@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1768-merge-strings-alternately) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1768-merge-strings-alternately) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
