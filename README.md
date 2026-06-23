@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
