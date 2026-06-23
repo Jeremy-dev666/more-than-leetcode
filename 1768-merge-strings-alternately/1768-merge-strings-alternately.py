@@ -1,11 +1,10 @@
-class Solution(object):
-    def mergeAlternately(self, word1, word2):
-        result = []
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
         n = max(len(word1), len(word2))
+        ans = []
         for i in range(n):
             if i < len(word1):
-                result += word1[i]
+                ans.append(word1[i])
             if i < len(word2):
-                result += word2[i]
-
-        return "".join(result)
+                ans.append(word2[i])
+        return "".join(ans)
