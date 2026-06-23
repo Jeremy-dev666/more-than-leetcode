@@ -13,7 +13,7 @@ class Solution:
                 break
             if a + nums[-1] + nums[-2] + nums[-3] < target:
                 continue
-
+            # 固定第二个数
             for j in range(i + 1, n - 2):
                 b = nums[j]
                 if j > i + 1 and b == nums[j - 1]:
@@ -22,7 +22,7 @@ class Solution:
                     break
                 if a + b + nums[-1] + nums[-2] < target:
                     continue
-            
+                # 寻找两数之和
                 l, r = j + 1, n - 1
                 while l < r:
                     sum = a + b + nums[l] + nums[r]
