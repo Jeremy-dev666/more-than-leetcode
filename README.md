@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
