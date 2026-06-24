@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0729-my-calendar-i) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1929-concatenation-of-array) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
 ## Sliding Window
