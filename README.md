@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0732-my-calendar-iii) |
+| [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 ## Segment Tree
 |  |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
 | ------- |
@@ -568,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
