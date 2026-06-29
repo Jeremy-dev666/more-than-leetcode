@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0729-my-calendar-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0732-my-calendar-iii) |
