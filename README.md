@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
 | [0853-car-fleet](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0732-my-calendar-iii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1004-max-consecutive-ones-iii) |
