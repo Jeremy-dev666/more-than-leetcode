@@ -1,5 +1,5 @@
 from collections import defaultdict
-
+# 栈中栈
 class FreqStack:
 
     def __init__(self):
