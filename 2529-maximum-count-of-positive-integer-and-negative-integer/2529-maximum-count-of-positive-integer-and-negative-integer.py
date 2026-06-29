@@ -10,7 +10,7 @@ class Solution:
             else:
                 l = mid + 1
         neg = l
-
+        # 找到0上界
         l, r = 0, n
         while l < r:
             mid = (l + r) // 2
