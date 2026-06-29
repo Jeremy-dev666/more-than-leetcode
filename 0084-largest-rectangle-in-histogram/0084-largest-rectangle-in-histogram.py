@@ -1,22 +1,16 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
+        n = len(heights)
         st = []
         ans = 0
-        n = len(heights)
 
-        for r in range(n + 1):
-            cur_h = 0 if r == n else heights[r]
-            # 当 cur_h < heights[st[0]] 时说明找到了栈顶元素的右边界
+        for r_bound in range(n + 1):
+            cur_h = 0 if r_bound == n else heights[r_bound]
             while st and cur_h < heights[st[-1]]:
-                # 由于维持的栈是单调递增的
-                # 所以弹出当前栈顶元素后的栈顶元素就是左边界
-                idx = st.pop()
-                l = -1 if not st else st[-1]
-                area = (r - l - 1) * heights[idx]
+                cur_idx = st.pop()
+                l_bound = st[-1] if st else -1
+                area = (r_bound - l_bound - 1) * heights[cur_idx]
                 ans = max(ans, area)
-            
-            st.append(r)
-
+            st.append(r_bound)
+        
         return ans
-
-            
