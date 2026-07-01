@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0704-binary-search) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0680-valid-palindrome-ii) |
