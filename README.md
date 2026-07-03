@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
