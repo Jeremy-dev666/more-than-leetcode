@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
