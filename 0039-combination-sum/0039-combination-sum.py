@@ -1,26 +1,18 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        candidates.sort()
         ans = []
-        n = len(candidates)
-
-        def backtrack(index: int, sum: int, path: List[int]) -> None:
-            """
-            index 决定要走哪个分岔路口
-            i     决定下一步从哪开始
-            """
-            if sum == target:
+        def backtrack(path, start):
+            nonlocal ans
+            if sum(path) == target:
                 ans.append(list(path))
+            elif sum(path) > target:
                 return
-            if sum > target:
-                return
-            
-            for i in range(index, n):
-                num = candidates[i]
-                sum += num
-                path.append(num)
-                backtrack(i, sum, path)
-                sum -= num
+
+            for i in range(start, len(candidates)):
+                path.append(candidates[i])
+                backtrack(path, i)
                 path.pop()
 
-        backtrack(0, 0, [])
+        backtrack([], 0)
         return ans
