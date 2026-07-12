@@ -22,6 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0344-reverse-string) |
@@ -34,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
+| [1405-longest-happy-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
@@ -54,11 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
+| [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
@@ -90,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
+| [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -103,11 +116,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
+| [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Array
 |  |
 | ------- |
@@ -126,9 +146,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0051-n-queens) |
@@ -142,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -151,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0218-the-skyline-problem) |
@@ -161,15 +185,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
+| [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
@@ -184,10 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -198,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2974-minimum-number-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -209,7 +243,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,9 +260,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
+| [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -236,8 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
+| [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
+| [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -284,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -294,10 +342,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -310,9 +362,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
@@ -326,6 +382,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
+| [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
@@ -333,12 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
+| [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
@@ -358,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0881-boats-to-save-people) |
+| [1405-longest-happy-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1405-longest-happy-string) |
 | [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -373,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -399,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -444,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0075-sort-colors) |
@@ -462,7 +527,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2974-minimum-number-game) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -523,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0732-my-calendar-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -530,6 +598,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
+| [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
 |  |
@@ -540,9 +612,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
+| [1405-longest-happy-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1405-longest-happy-string) |
 | [2974-minimum-number-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
@@ -558,11 +636,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0355-design-twitter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0460-lfu-cache) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
@@ -601,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
@@ -634,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -646,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -673,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
@@ -682,6 +768,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->

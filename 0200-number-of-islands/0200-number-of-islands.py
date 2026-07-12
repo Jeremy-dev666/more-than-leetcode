@@ -1,22 +1,23 @@
+dirs = [[-1, 0], [1, 0], [0, -1], [0, 1]]
+
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        n, m = len(grid), len(grid[0])
-        cnt = 0
-        for i in range (n):
-            for j in range (m):
-                if grid[i][j] == "1":
-                    self.dfs(grid, i, j)
-                    cnt += 1
-        return cnt
+        m, n = len(grid), len(grid[0])
+        def dfs(x, y):
+            if not(0 <= x < m and 0 <= y < n) or grid[x][y] != "1":
+                return
+            
+            grid[x][y] = "0"
+            for d in dirs:
+                nx, ny = d[0] + x, d[1] + y
+                dfs(nx, ny)
 
-    def dfs(self, grid: List[List[str]], i: int, j: int) -> None:
-        if i < 0 or i >= len(grid) or j < 0 or j >= len(grid[0]):
-            return
-        if grid[i][j] != "1":
-            return
-        grid[i][j] = "0"
-        
-        self.dfs(grid, i - 1, j)
-        self.dfs(grid, i + 1, j)
-        self.dfs(grid, i, j - 1)
-        self.dfs(grid, i, j + 1)
+        ans = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == "1":
+                    dfs(i, j)
+                    ans += 1
+
+        return ans
+                
