@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
