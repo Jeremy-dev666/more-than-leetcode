@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
 | [0895-maximum-frequency-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
 | [0853-car-fleet](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -265,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
@@ -278,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
@@ -376,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
@@ -383,14 +393,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
