@@ -30,7 +30,8 @@
 | 回溯 Backtracking | — | 🔴 |
 | 扫描线 Sweep Line | — | 🔴 |
 | 动态规划 DP | — | 🔴 |
-| BFS / DFS | — | 🔴 |
+| BFS / DFS | [link](./patterns/bfs-vs-dfs-shortest-path.md) | 🟡 |
+| 双向 BFS Bidirectional BFS | [link](./patterns/bidirectional-bfs.md) | 🟡 |
 
 ## 数据结构 / Structures
 
