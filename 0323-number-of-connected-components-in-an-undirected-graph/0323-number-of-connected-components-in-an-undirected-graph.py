@@ -2,7 +2,7 @@
 class UF:
     def __init__(self, n):
         self.parent = [i for i in range(n)]
-        self.rank = [0] * n
+        self.rank = [1] * n
         self.cnt = n
 
     def find(self, x):
