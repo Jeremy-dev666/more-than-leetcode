@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
@@ -431,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
@@ -817,4 +823,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
