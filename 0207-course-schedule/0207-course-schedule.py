@@ -2,11 +2,11 @@ from collections import deque
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adj = [[] for _ in range (numCourses)]
+        adj = [[] for _ in range(numCourses)]
         indegrees = [0] * numCourses
-        for p in prerequisites:
-            indegrees[p[0]] += 1
-            adj[p[1]].append(p[0])
+        for to, fr in prerequisites:
+            adj[fr].append(to)
+            indegrees[to] += 1
 
         q = deque()
         for i in range(numCourses):
@@ -21,5 +21,5 @@ class Solution:
                 indegrees[nxt] -= 1
                 if indegrees[nxt] == 0:
                     q.append(nxt)
-        
+
         return cnt == 0
