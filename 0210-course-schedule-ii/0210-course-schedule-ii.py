@@ -19,4 +19,4 @@ class Solution:
                 if indegrees[nxt] == 0:
                     q.append(nxt)
         
-        return ans
+        return ans if len(ans) == numCourses else []
