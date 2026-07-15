@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
