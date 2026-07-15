@@ -90,7 +90,7 @@ Kruskal = 边按权重排序 + 逐条尝试 union:成功就选入 MST,失败(成
 并查集维护的是抽象的**等价关系**(自反、对称、传递),不一定要有真的图:
 
 - **990 (Satisfiability of Equality Equations)**:`a==b` 就 union,处理完再检查每个 `a!=b` 是否被迫同组——同组即矛盾;
-- **721 (Accounts Merge)**:email 出现在同一账户 → union,等价类就是同一个人;
+- **721 (Accounts Merge)**:email 出现在同一账户 → union,等价类就是同一个人。实现技巧([code](../../0721-accounts-merge/)):**union 的元素是账户下标而不是邮箱**,邮箱只做 `email → 首次所属账户` 的映射,再次见到同一邮箱就 union 两个账户——省掉给邮箱离散化的一层;
 - **547 (Number of Provinces)**:朋友关系的传递闭包分组。
 
 识别信号:题面出现"传递性"——a 和 b 一伙、b 和 c 一伙 ⟹ a 和 c 一伙。看到这个结构,把"一伙"翻译成 union 即可,元素是什么(变量、邮箱、人)无所谓。字符串/对象做元素时用 `dict` 版 parent 或先离散化成下标。
@@ -103,9 +103,17 @@ Kruskal = 边按权重排序 + 逐条尝试 union:成功就选入 MST,失败(成
 
 并查集不能分裂,但**删边问题若允许离线(所有操作预先已知),把时间倒放,删边就变成加边**:先构建删完所有边后的终态,再逆序把边一条条 union 回去,倒序回答查询。典型:"依次断开这些边,每次断开后还连通吗"。这是把工具的短板绕过去的经典手法,识别关键词:**离线 + 删除/摧毁 + 连通性**。
 
-### 9. 带权并查集(进阶,知道存在即可)
+### 9. 带权并查集(进阶)
 
 父指针上附加一个"相对权值",`find` 压缩路径时同步累积。能回答的不再是"是否同组",而是"同组的话,a 相对 b 的比值/差值是多少"。典型:399 (Evaluate Division),`a/b=2, b/c=3` ⟹ 回答 `a/c=6`。信号:等价关系之上还叠了一层**可传递的量化关系**。
+
+实现要点([code](../../0399-evaluate-division/)),约定 `weight[x] = x / parent(x)`,三处都围绕这个不变量:
+
+- **find 压缩路径时权值同步相乘**:`(儿子/爸爸) × (爸爸/爷爷) = 儿子/爷爷`,压缩后 `weight[x]` 直接表示 `x / root`;
+- **union 挂接时解方程定权值**:把 `rb` 挂到 `ra` 下,由 `a/b = val` 推出 `weight[rb] = weight[a] / (val × weight[b])`;
+- **query 同根才可答**:`a/b = weight[a] / weight[b]`(两者都已压缩到同一根),不同根返回 -1。
+
+字符串变量先用 dict 离散化成下标,正是用法 6 说的那套。
 
 ## 什么时候不用 / When NOT to use
 
@@ -146,10 +154,10 @@ Kruskal = 边按权重排序 + 逐条尝试 union:成功就选入 MST,失败(成
 | 684 | Redundant Connection | Medium | union 失败 ⟺ 成环,环检测零额外代码 | [code](../../0684-redundant-connection/) |
 | 547 | Number of Provinces | Medium | 等价类分组 | 待刷 |
 | 990 | Satisfiability of Equality Equations | Medium | 先 union 所有等式,再用不等式找矛盾 | 待刷 |
-| 721 | Accounts Merge | Medium | 字符串做元素的等价类合并 | 待刷 |
+| 721 | Accounts Merge | Medium | 账户下标做元素、邮箱做"胶水"的等价类合并 | [code](../../0721-accounts-merge/) |
 | 305 | Number of Islands II | Hard | 在线加点报岛数,UF 不可替代的场景 | 待刷 |
 | 1584 | Min Cost to Connect All Points | Medium | Kruskal,684 的完整版 | 待刷 |
-| 399 | Evaluate Division | Medium | 带权并查集(或 DFS) | 待刷 |
+| 399 | Evaluate Division | Medium | 带权并查集,权值 = 到父节点的比值 | [code](../../0399-evaluate-division/) |
 
 ## 关联 / Related
 
