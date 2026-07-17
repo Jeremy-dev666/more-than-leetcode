@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
+| [0322-coin-change](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
