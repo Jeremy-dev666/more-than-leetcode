@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0127-word-ladder) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
