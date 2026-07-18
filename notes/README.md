@@ -31,6 +31,7 @@
 | 扫描线 Sweep Line | — | 🔴 |
 | 动态规划 DP | — | 🔴 |
 | DP 遍历方向 Traversal Order | [link](./patterns/dp-traversal-order.md) | 🟡 |
+| 背包计数循环顺序 Knapsack Loop Order | [link](./patterns/knapsack-loop-order.md) | 🟡 |
 | BFS / DFS | [link](./patterns/bfs-vs-dfs-shortest-path.md) | 🟡 |
 | 双向 BFS Bidirectional BFS | [link](./patterns/bidirectional-bfs.md) | 🟡 |
 
