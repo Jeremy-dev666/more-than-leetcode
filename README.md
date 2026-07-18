@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1929-concatenation-of-array) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -865,4 +868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
