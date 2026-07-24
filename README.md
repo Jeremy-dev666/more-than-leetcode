@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0097-interleaving-string) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -872,4 +874,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
