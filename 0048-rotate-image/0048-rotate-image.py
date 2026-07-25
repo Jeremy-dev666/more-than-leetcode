@@ -3,20 +3,15 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        m = len(matrix)
-
-        # 斜对称轴交换
+        # 对角线转换
+        m, n = len(matrix), len(matrix[0])
         for i in range(m):
-            for j in range(i):
-                tmp = matrix[i][j]
-                matrix[i][j] = matrix[j][i]
-                matrix[j][i] = tmp
+            for j in range(i, n):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 
-        # 左右对称交换
+        # 竖向镜像转换
         for i in range(m):
-            for j in range(m // 2):
-                tmp = matrix[i][j]
-                matrix[i][j] = matrix[i][m - j - 1]
-                matrix[i][m - j - 1] = tmp
+            for j in range(n//2):
+                matrix[i][j], matrix[i][n - j - 1] = matrix[i][n - j - 1], matrix[i][j]
+
         
-
