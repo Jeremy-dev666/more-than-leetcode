@@ -1,23 +1,27 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         m, n = len(matrix), len(matrix[0])
-        t, b, l, r = 0, m - 1, 0, n - 1
-        ans = []
+        # four baselines
+        top, btm, left, right = 0, m - 1, 0, n - 1
 
-        while t <= b and l <= r:
-            for col in range(l, r+1):
-                ans.append(matrix[t][col])
-            t += 1
-            for row in range(t, b+1):
-                ans.append(matrix[row][r])
-            r -= 1
-            if t <= b:
-                for col in range(r, l - 1, -1):
-                    ans.append(matrix[b][col])
-                b -= 1
-            if l <= r:
-                for row in range(b, t - 1, -1):
-                    ans.append(matrix[row][l])
-                l += 1
-        return ans
+        ans = []
+        while top <= btm and left <= right:
+            for i in range(left, right + 1):
+                ans.append(matrix[top][i])
+            top += 1
+
+            for i in range(top, btm + 1):
+                ans.append(matrix[i][right])
+            right -= 1
+
+            if top <= btm:
+                for i in range(right, left - 1, -1):
+                    ans.append(matrix[btm][i])
+                btm -= 1
             
+            if left <= right:
+                for i in range(btm, top - 1, -1):
+                    ans.append(matrix[i][left])
+                left += 1
+                
+        return ans
