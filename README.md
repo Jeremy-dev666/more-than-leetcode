@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0072-edit-distance) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0062-unique-paths) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0735-asteroid-collision) |
