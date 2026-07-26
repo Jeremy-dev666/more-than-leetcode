@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0252-meeting-rooms](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0283-move-zeroes) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0435-non-overlapping-intervals) |
