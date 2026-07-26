@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0069-sqrtx) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0234-palindrome-linked-list) |
