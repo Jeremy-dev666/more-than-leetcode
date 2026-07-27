@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
+| [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
+| [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 ## Union-Find
 |  |
 | ------- |
