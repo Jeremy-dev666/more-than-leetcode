@@ -14,7 +14,7 @@ class Solution:
 
             if node.val >= max_num:
                 ans += 1
-            max_num = max(max_num, node.val)
+                max_num = node.val
 
             dfs(node.left, max_num)
             dfs(node.right, max_num)
