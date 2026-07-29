@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
 | [0872-leaf-similar-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0872-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0872-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0872-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
+| [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
