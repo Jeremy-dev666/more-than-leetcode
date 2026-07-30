@@ -8,20 +8,16 @@
 class Solution:
     def getTargetCopy(self, original: TreeNode, cloned: TreeNode, target: TreeNode) -> TreeNode:
         
-        qo = deque([original])
-        qc = deque([cloned])
-        while qo:
-            cur = qo.popleft()
-            c = qc.popleft()
-            if cur is target:
+        def dfs(o, c):
+            if o is None:
+                return None
+            
+            if o is target:
                 return c
 
-            if cur.left:
-                qo.append(cur.left)
-                qc.append(c.left)
-            if cur.right:
-                qo.append(cur.right)
-                qc.append(c.right)
+            left = dfs(o.left, c.left)
+            if left:
+                return left
+            return dfs(o.right, c.right)
 
-        
-
+        return dfs(original, cloned)
