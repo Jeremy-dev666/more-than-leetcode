@@ -7,20 +7,16 @@
 class Solution:
     def maxAncestorDiff(self, root: Optional[TreeNode]) -> int:
         
-        def dfs(node, max_num, min_num):
-            nonlocal ans
+        # 自顶向下一路探到叶子节点（那么由此保证了祖先孙子关系）
+        # 探路过程中维护最大值、最小值（包括当前节点值作比较）
+        # 当到达叶子节点时更新答案
+        def dfs(node, cur_max, cur_min):
             if node is None:
-                return
+                return cur_max - cur_min
+            cur_max = max(cur_max, node.val)
+            cur_min = min(cur_min, node.val)
+            return max(dfs(node.left, cur_max, cur_min), dfs(node.right, cur_max, cur_min))
 
-            abs_val = max(abs(node.val - max_num), abs(node.val - min_num))
-            ans = max(abs_val, ans)
+        return dfs(root, root.val, root.val)
 
-            max_num = max(max_num, node.val)
-            min_num = min(min_num, node.val)
-
-            dfs(node.left, max_num, min_num)
-            dfs(node.right, max_num, min_num)
-
-        ans = -1
-        dfs(root, root.val, root.val)
-        return ans
+            
