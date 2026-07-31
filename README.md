@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
