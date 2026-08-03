@@ -6,33 +6,21 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        sub_height = self._getH(subRoot)
+        def isSameTree(a, b):
+            if a is None and b is None:
+                return True
+            if a is None or b is None:
+                return False
+            if a.val != b.val:
+                return False
+            return isSameTree(a.left, b.left) and isSameTree(a.right, b.right)
 
-        # postorder traversal, and return Tuple[height, isFound]
-        def dfs(node: Optional[TreeNode]) -> Tuple[int, bool]:
+        # 遍历主树的每一个节点去尝试和subRoot子树比较
+        def dfs(node):
             if node is None:
-                return 0, False
+                return False
+            if isSameTree(node, subRoot):
+                return True
+            return dfs(node.left) or dfs(node.right)
 
-            l_h, l_found = dfs(node.left)
-            r_h, r_found = dfs(node.right)
-            # 如果子树已经找到匹配，那么直接上传信号，无需再通过高度剪枝
-            if l_found or r_found:
-                return 0, True
-
-            # 比较高度来进行isSame方法调用的剪枝
-            node_h = max(l_h, r_h) + 1
-            return node_h, node_h == sub_height and self._isSame(node, subRoot)
-
-        return dfs(root)[1]
-
-    def _getH(self, node):
-        if node is None:
-            return 0
-        return max(self._getH(node.left), self._getH(node.right)) + 1
-
-    def _isSame(self, t1, t2):
-        if t1 is None or t2 is None:
-            return t1 is t2
-        return t1.val == t2.val and \
-            self._isSame(t1.left, t2.left) and \
-            self._isSame(t1.right, t2.right)
+        return dfs(root)
