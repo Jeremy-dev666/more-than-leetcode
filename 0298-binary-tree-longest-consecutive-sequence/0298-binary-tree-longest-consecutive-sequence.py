@@ -9,15 +9,14 @@ class Solution:
         
         def dfs(node, prev_val, length):
             nonlocal ans
-
             if node is None:
                 return
-
             if node.val == prev_val + 1:
                 length += 1
             else:
                 length = 1
             ans = max(ans, length)
+            
 
             dfs(node.left, node.val, length)
             dfs(node.right, node.val, length)
