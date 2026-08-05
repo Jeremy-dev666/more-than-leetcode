@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1120-maximum-average-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1120-maximum-average-subtree) |
 | [1145-binary-tree-coloring-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1145-binary-tree-coloring-game) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1120-maximum-average-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1120-maximum-average-subtree) |
 | [1145-binary-tree-coloring-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1145-binary-tree-coloring-game) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1120-maximum-average-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1120-maximum-average-subtree) |
 | [1145-binary-tree-coloring-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1145-binary-tree-coloring-game) |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Geometry
 |  |
 | ------- |
