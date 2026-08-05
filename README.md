@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [2013-detect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2013-detect-squares) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [2013-detect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2013-detect-squares) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
