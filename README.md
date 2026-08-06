@@ -1119,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0333-largest-bst-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
