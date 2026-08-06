@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0663-equal-tree-partition](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0663-equal-tree-partition) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
 | [0814-binary-tree-pruning](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0814-binary-tree-pruning) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0663-equal-tree-partition](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0663-equal-tree-partition) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0663-equal-tree-partition](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0663-equal-tree-partition) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Lifting
 |  |
