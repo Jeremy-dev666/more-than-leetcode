@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
