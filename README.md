@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0250-count-univalue-subtrees) |
+| [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0250-count-univalue-subtrees) |
+| [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0250-count-univalue-subtrees) |
+| [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
