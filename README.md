@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -1128,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Lifting
