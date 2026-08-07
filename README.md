@@ -1154,9 +1154,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
