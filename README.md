@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [2013-detect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2013-detect-squares) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1120-maximum-average-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1120-maximum-average-subtree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1145-binary-tree-coloring-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1145-binary-tree-coloring-game) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1120-maximum-average-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1120-maximum-average-subtree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1145-binary-tree-coloring-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1145-binary-tree-coloring-game) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1120-maximum-average-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1120-maximum-average-subtree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1145-binary-tree-coloring-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1145-binary-tree-coloring-game) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
@@ -1154,16 +1159,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
