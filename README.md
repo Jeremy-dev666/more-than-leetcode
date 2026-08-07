@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0257-binary-tree-paths) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -1155,10 +1158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
