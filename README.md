@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Matrix
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -1171,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
