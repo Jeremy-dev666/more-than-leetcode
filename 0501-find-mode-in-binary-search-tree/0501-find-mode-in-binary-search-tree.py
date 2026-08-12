@@ -6,22 +6,31 @@
 #         self.right = right
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
-        
-        def dfs(node, freq):
+        self.prev = None
+        self.cur_freq = self.max_freq = 0
+
+        def dfs(node):
+            nonlocal ans
             if node is None:
                 return
-            freq[node.val] += 1
-            dfs(node.left,freq)
-            dfs(node.right, freq)
+            
+            dfs(node.left)
 
-
-        freq = defaultdict(int)
-        dfs(root, freq)
-        max_val = max(freq.values())
+            # 1.计算当前节点的频率
+            if self.prev is not None and node.val == self.prev:
+                self.cur_freq += 1
+            else:
+                self.cur_freq = 1
+            # 2. 和最大值分情况比较
+            if self.cur_freq > self.max_freq:
+                self.max_freq = self.cur_freq
+                ans = [node.val]  # 有新的最大频率，列表初始化重建
+            elif self.cur_freq == self.max_freq:
+                ans.append(node.val)
+            
+            self.prev = node.val
+            dfs(node.right)
 
         ans = []
-        for key in freq:
-            if freq[key] == max_val:
-                ans.append(key)
-
+        dfs(root)
         return ans
