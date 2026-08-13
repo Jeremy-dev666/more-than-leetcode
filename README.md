@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0998-maximum-binary-tree-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0998-maximum-binary-tree-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1123,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1210,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
