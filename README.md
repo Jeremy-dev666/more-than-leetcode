@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0536-construct-binary-tree-from-string](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0567-permutation-in-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0647-palindromic-substrings) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0536-construct-binary-tree-from-string](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0536-construct-binary-tree-from-string](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0536-construct-binary-tree-from-string](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0545-boundary-of-binary-tree) |
@@ -991,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
+| [0536-construct-binary-tree-from-string](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0654-maximum-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0682-baseball-game) |
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
