@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0881-boats-to-save-people) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1405-longest-happy-string) |
 | [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -1219,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Geometry
 |  |
