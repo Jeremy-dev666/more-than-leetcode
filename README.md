@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2974-minimum-number-game) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
