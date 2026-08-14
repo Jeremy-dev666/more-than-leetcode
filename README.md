@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0663-equal-tree-partition](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0663-equal-tree-partition) |
+| [0669-trim-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0663-equal-tree-partition) |
+| [0669-trim-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0663-equal-tree-partition) |
+| [0669-trim-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1244,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
