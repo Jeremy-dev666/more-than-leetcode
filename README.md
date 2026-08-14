@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
+| [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1929-concatenation-of-array) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
+| [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
+| [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
+| [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -1006,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1101,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
+| [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [2013-detect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2013-detect-squares) |
 ## Segment Tree
 |  |
