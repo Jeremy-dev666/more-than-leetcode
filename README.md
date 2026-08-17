@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1609-even-odd-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1609-even-odd-tree) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1609-even-odd-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1609-even-odd-tree) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
+| [1609-even-odd-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1609-even-odd-tree) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
