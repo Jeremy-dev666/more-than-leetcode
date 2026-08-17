@@ -6,31 +6,25 @@
 #         self.right = right
 class Solution:
     def addOneRow(self, root: Optional[TreeNode], val: int, depth: int) -> Optional[TreeNode]:
-        # 题目和层有关首先考虑BFS
-
-        # 边界特殊情况
-        if depth == 1:
-            return TreeNode(val, root, None)
-        
+        cur_depth = 0
         q = deque([root])
-        D = 1
         while q:
-            D += 1
-            sz = len(q)
-            
-            for _ in range(sz):
-                cur = q.popleft()
-                if D == depth:
-                    left, right = cur.left, cur.right
-                    cur.left = TreeNode(val, left, None)
-                    cur.right = TreeNode(val, None, right)
-                else:
-                    if cur.left:
-                        q.append(cur.left)
-                    if cur.right:
-                        q.append(cur.right)
+            cur_depth += 1
 
-            if D == depth:
-                break
+            for _ in range(len(q)):
+                cur = q.popleft()
+                if cur_depth + 1 == depth:
+                    left = cur.left
+                    right = cur.right
+                    new_left, new_right = TreeNode(val), TreeNode(val)
+                    cur.left = new_left
+                    cur.right = new_right
+                    new_left.left = left
+                    new_right.right = right
+                if cur.left:
+                    q.append(cur.left)
+                if cur.right:
+                    q.append(cur.right)
 
         return root
+                    
