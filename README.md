@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
