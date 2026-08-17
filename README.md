@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0919-complete-binary-tree-inserter](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0965-univalued-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
@@ -1163,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0732-my-calendar-iii) |
 | [0895-maximum-frequency-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0901-online-stock-span) |
+| [0919-complete-binary-tree-inserter](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [2013-detect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2013-detect-squares) |
